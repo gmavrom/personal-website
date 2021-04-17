@@ -5,10 +5,10 @@
 
 # Appearance
 
-theme: minimal
+theme: george #minimal
 day_night: false
-font: 'Minimal'
-font_size: M
+font: 'george' #'Minimal'
+font_size: L
 
 # SEO
 
