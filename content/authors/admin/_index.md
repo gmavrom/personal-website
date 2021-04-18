@@ -11,7 +11,7 @@ role: Senior Researcher in Energy Systems
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: ETH Zurich
-  url: https://www.ethz.ch/
+  url:
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -46,15 +46,18 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/gmavrom
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user=ki0AOEEAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/gmavrom
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-0227-4518
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 

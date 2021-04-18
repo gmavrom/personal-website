@@ -1,0 +1,19 @@
+# Theme metadata
+name = "george2"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#06805E"
+
+# Menu
+menu_primary = "#06805E"
+menu_text = "#fff"
+menu_text_active = "#fff"
+menu_title = "#fff"
+
+# Backgrounds
+background = "#F0F7FA"
+home_section_odd = "#F0F7FA"
+home_section_even = "#F0F7FA"
