@@ -11,7 +11,7 @@ role: Senior Researcher in Energy Systems
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: ETH Zurich
-  url:
+  url: https://www.ethz.ch
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -58,6 +58,9 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-0227-4518
+- icon: university
+  icon_pack: fas
+  link: https://sustec.ethz.ch/people/sr/gmavromatidis.html
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 

@@ -6,7 +6,7 @@
 # Appearance
 
 theme: george #minimal
-day_night: false
+day_night: true
 font: 'Rose' #'Minimal'
 font_size: L
 
